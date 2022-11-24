@@ -1,0 +1,4 @@
+﻿  App_AgarioGame.cpp
+C:\dev\gameplay_programming\FiniteStateMachine\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GPP_Framework.vcxproj -> C:\dev\gameplay_programming\FiniteStateMachine\bin\Debug\GPP_Framework.exe
+  0 File(s) copied

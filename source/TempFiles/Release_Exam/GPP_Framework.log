@@ -1,0 +1,8 @@
+﻿  App_PathfindingAStar.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\dev\gameplay_programming\Graphs\source\framework\EliteAI\EliteGraphs\EliteGraphAlgorithms\EEularianPath.h(68): warning C4715: 'Elite::EulerianPath<Elite::GraphNode2D,Elite::GraphConnection2D>::IsEulerian': not all control paths return a value
+  All 2910 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GPP_Framework.vcxproj -> C:\dev\gameplay_programming\Graphs\bin\Release_Exam\GPP_Framework.exe
+  0 File(s) copied

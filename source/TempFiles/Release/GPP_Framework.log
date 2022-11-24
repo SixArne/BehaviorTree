@@ -1,0 +1,60 @@
+﻿  stdafx.cpp
+  EGraphConnectionTypes.cpp
+  EGraphNodeTypes.cpp
+  EGraphEditor.cpp
+  EGraphRenderer.cpp
+  ENavGraph.cpp
+  EGeometry2DTypes.cpp
+  EInputManager.cpp
+  EMatrix2x3.cpp
+  ERigidBodyBox2D.cpp
+  EPhysicsWorldBox2D.cpp
+  ECamera2D.cpp
+  SDLDebugRenderer2D.cpp
+  SDLFrame.cpp
+  ETimer_SDL.cpp
+  EImmediateUI.cpp
+  SDLWindow.cpp
+  gl3w.c
+  main.cpp
+  App_PathfindingAStar.cpp
+  App_GraphTheory.cpp
+  Compiling...
+  App_NavMeshGraph.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  App_Sandbox.cpp
+  SandboxAgent.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\Sandbox\SandboxAgent.cpp(55,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\Sandbox\SandboxAgent.cpp(58,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  App_CombinedSteering.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  CombinedSteeringBehaviors.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  App_Flocking.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Flock.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Flocking\Flock.cpp(146,37): warning C4018: '<': signed/unsigned mismatch
+  FlockingSteeringBehaviors.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SpacePartitioning.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\SpacePartitioning\SpacePartitioning.cpp(84,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  App_SteeringBehaviors.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Obstacle.cpp
+  SteeringAgent.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SteeringBehaviors.cpp
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.h(116,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.cpp(139,69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\GraphsGameplayProgramming\source\projects\Movement\SteeringBehaviors\Steering\SteeringBehaviors.cpp(139,30): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  BaseAgent.cpp
+  NavigationColliderElement.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\dev\GraphsGameplayProgramming\source\framework\EliteAI\EliteGraphs\EliteGraphAlgorithms\EEularianPath.h(68): warning C4715: 'Elite::EulerianPath<Elite::GraphNode2D,Elite::GraphConnection2D>::IsEulerian': not all control paths return a value
+  All 3454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GPP_Framework.vcxproj -> C:\dev\GraphsGameplayProgramming\bin\Release\GPP_Framework.exe
+  C:\dev\GraphsGameplayProgramming\source\..\lib\SDL2.dll
+  1 File(s) copied
